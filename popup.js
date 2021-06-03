@@ -1154,7 +1154,7 @@ function injectTable() {
             aether_value = elementJSON[card_name.toLowerCase()][rarity];
             var aetherDiv = document.createElement('div');
             parent.appendChild(aetherDiv);
-            aetherDiv.innerHTML = (aether_value)+<img src=\'/images/ae16.png\'>;
+            aetherDiv.innerHTML = "<img src='images/ae16 " + aether_value + ".png'>";                        
             aetherDiv.style.position = "absolute";
             aetherDiv.style.margin = "auto";
             aetherDiv.style.left = 0;

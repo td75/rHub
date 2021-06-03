@@ -1161,10 +1161,10 @@ function injectTable() {
             aetherDiv.style.right = 0;
             aetherDiv.style.top = "-3.5px";
             aetherDiv.style.letterSpacing = "2px";
-            aetherDiv.style.fontSize = "12px";
+            aetherDiv.style.fontSize = "10px";
             aetherDiv.style.fontWeight = 900;
-            aetherDiv.style.color = "#ffffff";
-            aetherDiv.style.textShadow = "0px 0px 5px #000000";
+            aetherDiv.style.color = "#ff08ff";
+            aetherDiv.style.textShadow = "2px 2px 5px #c3ff00";
           };
           var ratioDiv = document.createElement('div');
           parent.appendChild(ratioDiv);

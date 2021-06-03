@@ -1163,6 +1163,8 @@ function injectTable() {
             aetherDiv.style.letterSpacing = "2px";
             aetherDiv.style.fontSize = "12px";
             aetherDiv.style.fontWeight = 900;
+            aetherDiv.style.color = "#ffffff";
+            aetherDiv.style.textShadow = "0px 0px 5px #000000";
           };
           var ratioDiv = document.createElement('div');
           parent.appendChild(ratioDiv);

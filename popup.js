@@ -1166,7 +1166,7 @@ function injectTable() {
           };
           var ratioDiv = document.createElement('div');
           parent.appendChild(ratioDiv);
-          ratioDiv.innerHTML = (clean_price/ (parseFloat(aether_value.toString().replace(',','')))).toFixed(1)+" : 1";
+          ratioDiv.innerHTML = (clean_price/ (parseFloat(aether_value.toString().replace(',','')))).toFixed(2)+" : 1";
           ratioDiv.style.position = "absolute";
           ratioDiv.style.margin = "auto";
           ratioDiv.style.left = 0;

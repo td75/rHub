@@ -1159,12 +1159,12 @@ function injectTable() {
             aetherDiv.style.margin = "auto";
             aetherDiv.style.left = 0;
             aetherDiv.style.right = 0;
-            aetherDiv.style.top = "-3.5px";
+            aetherDiv.style.top = "10.5px";
             aetherDiv.style.letterSpacing = "2px";
             aetherDiv.style.fontSize = "10px";
             aetherDiv.style.fontWeight = 900;
             aetherDiv.style.color = "#ffffff";
-            aetherDiv.style.textShadow = "0px 0px 2px #000000";
+            aetherDiv.style.textShadow = "0px 0px 3px #000000";
           };
           var ratioDiv = document.createElement('div');
           parent.appendChild(ratioDiv);

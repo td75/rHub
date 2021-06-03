@@ -1154,12 +1154,12 @@ function injectTable() {
             aether_value = elementJSON[card_name.toLowerCase()][rarity];
             var aetherDiv = document.createElement('div');
             parent.appendChild(aetherDiv);
-            aetherDiv.innerHTML = aether_value;
+            aetherDiv.innerHTML = (aether_value)+" AETHER";
             aetherDiv.style.position = "absolute";
             aetherDiv.style.margin = "auto";
             aetherDiv.style.left = 0;
             aetherDiv.style.right = 0;
-            aetherDiv.style.top = "20px";
+            aetherDiv.style.top = "200px";
             aetherDiv.style.letterSpacing = "2px";
             aetherDiv.style.fontSize = "11px";
             aetherDiv.style.fontWeight = 900;

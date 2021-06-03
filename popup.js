@@ -1056,7 +1056,32 @@ function injectTable() {
       "Epic": "16,440",
       "Legendary": "34,250",
       "Mythic": "137,000"
+    },
+    "calculator": {
+      "Common": "777.5",
+      "Uncommon": "2,332.5",
+      "Rare": "4,665",
+      "Epic": "9,330",
+      "Legendary": "19,437.5",
+      "Mythic": "77,750"
+    },
+    "atom": {
+      "Common": "372.5",
+      "Uncommon": "1,117.5",
+      "Rare": "2,235",
+      "Epic": "4,470",
+      "Legendary": "9,312.5",
+      "Mythic": "37,250"
+    },
+    "cable": {
+      "Common": "391.25",
+      "Uncommon": "1173.75",
+      "Rare": "2347.5",
+      "Epic": "4695",
+      "Legendary": "9781.25",
+      "Mythic": "39125"
     }
+    
   }
   let rigJSON = {
     "Common": "150",

@@ -1166,9 +1166,10 @@ function injectTable() {
             aetherDiv.style.color = "#ffffff";
             aetherDiv.style.textShadow = "0px 0px 3px #000000";
           };
+          ratio_value = (clean_price/ (parseFloat(aether_value.toString().replace(',','')))).toFixed(2);
           var ratioDiv = document.createElement('div');
           parent.appendChild(ratioDiv);
-          ratioDiv.innerHTML = (clean_price/ (parseFloat(aether_value.toString().replace(',','')))).toFixed(2)+" : 1";
+          ratioDiv.innerHTML = ratio_value +" : 1";
           ratioDiv.style.position = "absolute";
           ratioDiv.style.margin = "auto";
           ratioDiv.style.left = 0;
@@ -1178,6 +1179,11 @@ function injectTable() {
           ratioDiv.style.fontSize = "12px";
           ratioDiv.style.fontWeight = 900;
           ratioDiv.style.color = "#42ba67";
+          if (ratio_value <= 2.80) {
+			      ratioDiv.style.color = "#fbff00";
+		      } if (ratio_value >= 3.00) {
+			      ratioDiv.style.color = "#ff0000";
+	        	}	
         } 
       }
     }

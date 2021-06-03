@@ -1163,8 +1163,8 @@ function injectTable() {
             aetherDiv.style.letterSpacing = "2px";
             aetherDiv.style.fontSize = "10px";
             aetherDiv.style.fontWeight = 900;
-            aetherDiv.style.color = "#ff08ff";
-            aetherDiv.style.textShadow = "2px 2px 5px #c3ff00";
+            aetherDiv.style.color = "#ffffff";
+            aetherDiv.style.textShadow = "0px 0px 2px #000000";
           };
           var ratioDiv = document.createElement('div');
           parent.appendChild(ratioDiv);
@@ -1174,7 +1174,7 @@ function injectTable() {
           ratioDiv.style.left = 0;
           ratioDiv.style.right = 0;
           ratioDiv.style.top = "-18.5px";
-          ratioDiv.style.letterSpacing = "2px";
+          ratioDiv.style.letterSpacing = "1px";
           ratioDiv.style.fontSize = "12px";
           ratioDiv.style.fontWeight = 900;
           ratioDiv.style.color = "#42ba67";

@@ -1168,7 +1168,7 @@ function injectTable() {
             aetherDiv.style.left = 0;
             aetherDiv.style.right = 0;
             aetherDiv.style.top = "130px";
-            aetherDiv.style.letterSpacing = "2px";
+            aetherDiv.style.letterSpacing = "1px";
             aetherDiv.style.fontSize = "12px";
             aetherDiv.style.fontWeight = 600;
             aetherDiv.style.color = "#ffffff";

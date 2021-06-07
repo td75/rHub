@@ -1080,6 +1080,14 @@ function injectTable() {
       "Epic": "4695",
       "Legendary": "9781.25",
       "Mythic": "39125"
+    },
+    "hill": {
+      "Common": "177.5",
+      "Uncommon": "532.5",
+      "Rare": "1065",
+      "Epic": "2130",
+      "Legendary": "4437.5",
+      "Mythic": "17750"
     }
     
   }
@@ -1161,8 +1169,8 @@ function injectTable() {
             aetherDiv.style.right = 0;
             aetherDiv.style.top = "130px";
             aetherDiv.style.letterSpacing = "2px";
-            aetherDiv.style.fontSize = "11px";
-            aetherDiv.style.fontWeight = 900;
+            aetherDiv.style.fontSize = "12px";
+            aetherDiv.style.fontWeight = 600;
             aetherDiv.style.color = "#ffffff";
             aetherDiv.style.textShadow = "0px 0px 3px #000000";
           };
@@ -1177,7 +1185,7 @@ function injectTable() {
           ratioDiv.style.top = "-18.5px";
           ratioDiv.style.letterSpacing = "1px";
           ratioDiv.style.fontSize = "12px";
-          ratioDiv.style.fontWeight = 900;
+          ratioDiv.style.fontWeight = 600;
           ratioDiv.style.color = "#42ba67";
           if (ratio_value <= 2.80) {
 		  ratioDiv.style.color = "#fbff00";

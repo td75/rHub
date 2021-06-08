@@ -1088,6 +1088,14 @@ function injectTable() {
       "Epic": "2130",
       "Legendary": "4437.5",
       "Mythic": "17750"
+    },
+    "kite": {
+      "Common": "586.25",
+      "Uncommon": "1758.75",
+      "Rare": "3517.5",
+      "Epic": "7035",
+      "Legendary": "14656.25",
+      "Mythic": "58625"
     }
     
   }

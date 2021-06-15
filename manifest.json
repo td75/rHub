@@ -1,7 +1,7 @@
 {
   "name": "rHub-mod",
   "description": "Displays ae/h for rPlanet elements on AtomicHub.",
-  "version": "1.6",
+  "version": "2.0",
   "manifest_version": 3,
   "options_page": "options.html",
   "permissions": ["activeTab", "scripting"],

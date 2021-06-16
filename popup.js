@@ -1136,7 +1136,15 @@ function injectTable() {
       "Epic": "1365",
       "Legendary": "2843.75",
       "Mythic": "11375"
-    }            
+    },
+    "bubbles": {
+      "Common": "121.25",
+      "Uncommon": "363.75",
+      "Rare": "727.5",
+      "Epic": "1455",
+      "Legendary": "3031.25",
+      "Mythic": "12125"
+    }             
   }
   let rigJSON = {
     "Common": "150",

@@ -1153,7 +1153,7 @@ function injectTable() {
       "Legendary": "5562.5",
       "Mythic": "22250"
     },
-      "pickax": {
+    "pickax": {
       "Common": "286.25",
       "Uncommon": "858.75",
       "Rare": "1717.5",

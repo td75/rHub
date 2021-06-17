@@ -1152,6 +1152,13 @@ function injectTable() {
       "Epic": "2670",
       "Legendary": "5562.5",
       "Mythic": "22250"
+    }"pickax": {
+      "Common": "286.25",
+      "Uncommon": "858.75",
+      "Rare": "1717.5",
+      "Epic": "3435",
+      "Legendary": "7156.25",
+      "Mythic": "28625"
     }              
   }
   let rigJSON = {

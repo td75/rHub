@@ -1176,7 +1176,15 @@ function injectTable() {
       "Epic": "88845",
       "Legendary": "185093.75",
       "Mythic": "740375"
-    }                  
+    },
+    "golem": {
+      "Common": "207.5",
+      "Uncommon": "622.5",
+      "Rare": "1245",
+      "Epic": "2490",
+      "Legendary": "5187.5",
+      "Mythic": "20750"
+    }                        
   }
   let rigJSON = {
     "Common": "150",

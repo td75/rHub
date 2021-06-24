@@ -1306,9 +1306,9 @@ function injectTable() {
           ratioDiv.style.fontSize = "12px";
           ratioDiv.style.fontWeight = 600;
           ratioDiv.style.color = "#42ba67";
-          if (ratio_value <= 2.80) {
+          if (ratio_value <= 2.00) {
 		  ratioDiv.style.color = "#fbff00";
-	  } if (ratio_value >= 3.00) {
+	  } if (ratio_value >= 2.80) {
 		  ratioDiv.style.color = "#ff0000";
 	  }	
         } 

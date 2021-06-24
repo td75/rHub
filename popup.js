@@ -1200,6 +1200,14 @@ function injectTable() {
       "Epic": "3075",
       "Legendary": "6406.25",
       "Mythic": "25625"
+    },
+    "kettle": {
+      "Common": "267.5",
+      "Uncommon": "802.5",
+      "Rare": "1605",
+      "Epic": "3210",
+      "Legendary": "6687.5",
+      "Mythic": "26750"
     }                           
   }
   let rigJSON = {

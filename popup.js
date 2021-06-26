@@ -1208,7 +1208,23 @@ function injectTable() {
       "Epic": "3210",
       "Legendary": "6687.5",
       "Mythic": "26750"
-    }                           
+    },
+    "seed": {
+      "Common": "151.25",
+      "Uncommon": "453.75",
+      "Rare": "907.5",
+      "Epic": "1815",
+      "Legendary": "3781.25",
+      "Mythic": "15125"
+    },
+    "grape": {
+      "Common": "410",
+      "Uncommon": "1230",
+      "Rare": "2460",
+      "Epic": "4920",
+      "Legendary": "10250",
+      "Mythic": "41000"
+    }                                   
   }
   let rigJSON = {
     "Common": "150",

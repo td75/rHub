@@ -1366,10 +1366,10 @@ function injectTable() {
 		  ratioDiv.style.color = "#FF0000";
 	  }	
           if (ratio_value <= 2.00) {
-		  ratioDiv.style.color = "#FFFF00";
+		  ratioDiv.style.color = "#0000FF";
 	  } 
-          if (ratio_value <= 1.50) {
-		  ratioDiv.style.color = "#FF69B4";
+          if (ratio_value <= 1.20) {
+		  ratioDiv.style.color = "#FFFF00";
 	  } 	
         } 
       }

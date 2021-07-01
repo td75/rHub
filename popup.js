@@ -1361,15 +1361,15 @@ function injectTable() {
           ratioDiv.style.letterSpacing = "1px";
           ratioDiv.style.fontSize = "12px";
           ratioDiv.style.fontWeight = 600;
-          ratioDiv.style.color = "#42ba67";
+          ratioDiv.style.color = "#008000";
 	  if (ratio_value >= 2.80) {
-		  ratioDiv.style.color = "#ff0000";
+		  ratioDiv.style.color = "#FF0000";
 	  }	
-          if (ratio_value <= 2.50) {
-		  ratioDiv.style.color = "#fbff00";
-	  } 
           if (ratio_value <= 2.00) {
-		  ratioDiv.style.color = "#3371FF";
+		  ratioDiv.style.color = "#FFFF00";
+	  } 
+          if (ratio_value <= 1.50) {
+		  ratioDiv.style.color = "#FF69B4";
 	  } 	
         } 
       }

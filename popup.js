@@ -1313,7 +1313,7 @@ function injectTable() {
       "Legendary": "15312.5",
       "Mythic": "61250"
     },
-    "scissors ": {
+    "scissors": {
       "Common": "548.75",
       "Uncommon": "1646.25",
       "Rare": "3292.5",

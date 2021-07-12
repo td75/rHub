@@ -1344,7 +1344,23 @@ function injectTable() {
       "Epic": "26700",
       "Legendary": "55625",
       "Mythic": "222500"
-    }                                                                 
+    },
+    "t-shirt": {
+      "Common": "2112.5",
+      "Uncommon": "6337.5",
+      "Rare": "12675",
+      "Epic": "25350",
+      "Legendary": "52812.5",
+      "Mythic": "211250"
+    },
+    "marker": {
+      "Common": "1160",
+      "Uncommon": "3480",
+      "Rare": "6960",
+      "Epic": "13920",
+      "Legendary": "29000",
+      "Mythic": "116000"
+    }                                                                  
   }
   let rigJSON = {
     "Common": "150",

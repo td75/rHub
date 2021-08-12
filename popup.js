@@ -1409,7 +1409,7 @@ function injectTable() {
       "Legendary": "4156.25",
       "Mythic": "16625"
     },
-    "aluminium": {
+    "aluminum": {
       "Common": "260",
       "Uncommon": "780",
       "Rare": "1560",

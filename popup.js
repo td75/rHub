@@ -1417,7 +1417,7 @@ function injectTable() {
       "Legendary": "6500",
       "Mythic": "26000"
     },
-    "hops": {
+    "hop": {
       "Common": "721.25",
       "Uncommon": "2163.75",
       "Rare": "4327.5",

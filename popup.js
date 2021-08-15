@@ -1500,6 +1500,7 @@ function injectTable() {
             aetherDiv.style.fontWeight = 600;
             aetherDiv.style.color = "#ffffff";
             aetherDiv.style.textShadow = "0px 0px 3px #000000";
+	    aetherDiv.style.textAlign = "center";
           };
           ratio_value = (clean_price/ (parseFloat(aether_value.toString().replace(',','')))).toFixed(2);
           var ratioDiv = document.createElement('div');
@@ -1514,6 +1515,7 @@ function injectTable() {
           ratioDiv.style.fontSize = "12px";
           ratioDiv.style.fontWeight = 600;
           ratioDiv.style.color = "#008000";
+	  ratioDiv.style.textAlign = "center";	
 	  if (ratio_value >= 2.80) {
 		  ratioDiv.style.color = "#FF0000";
 	  }	

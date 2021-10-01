@@ -1472,6 +1472,54 @@ function injectTable() {
       "Epic": "6900",
       "Legendary": "14375",
       "Mythic": "57500"  
+    },
+    "planet": {
+      "Common": "725",
+      "Uncommon": "2175",
+      "Rare": "4350",
+      "Epic": "8700",
+      "Legendary": "18125",
+      "Mythic": "72500"  
+    },
+    "moon": {
+      "Common": "2071.25",
+      "Uncommon": "6213.75",
+      "Rare": "12427.5",
+      "Epic": "24855",
+      "Legendary": "51781.25",
+      "Mythic": "207125"  
+    },
+    "rice": {
+      "Common": "230",
+      "Uncommon": "690",
+      "Rare": "1380",
+      "Epic": "2760",
+      "Legendary": "5750",
+      "Mythic": "23000"  
+    },
+    "iq": {
+      "Common": "1962.5",
+      "Uncommon": "5887.5",
+      "Rare": "11775",
+      "Epic": "23550",
+      "Legendary": "49062.5",
+      "Mythic": "196250"  
+    },
+    "science": {
+      "Common": "4362.5",
+      "Uncommon": "13087.5",
+      "Rare": "26175",
+      "Epic": "52350",
+      "Legendary": "109062.5",
+      "Mythic": "436250"  
+    },
+    "engine": {
+      "Common": "2446.25",
+      "Uncommon": "7338.75",
+      "Rare": "14677.5",
+      "Epic": "29355",
+      "Legendary": "61156.25",
+      "Mythic": "244625"  
     }    
   } 
   let rigJSON = {
